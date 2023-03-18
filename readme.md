@@ -31,6 +31,9 @@ The Mangalavya is an **RFID Based Restaurant Food Ordering System**
 - The token is then transferred to user following with a 3d view of all the menu options.
 
 <h2 align="center" >Getting Started</h2>
+
+![ss](https://user-images.githubusercontent.com/110530263/223948927-0a273f58-187f-47b7-952b-ca19c6c641c4.png)
+
 <hr>
  <h2 align="left" > Deployment</h2>
  
@@ -56,7 +59,7 @@ The Mangalavya is an **RFID Based Restaurant Food Ordering System**
 <h2 align="left" > Contact</h2>
 <p>
    
-📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
+📫 You can contact the team Corex Revise [here](https://linktr.ee/)  
    
 </a> 
 </p>
